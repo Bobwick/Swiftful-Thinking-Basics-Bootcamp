@@ -10,7 +10,7 @@ Welcome to my iOS Development journey! This repository contains my progress thro
 
 ✅ Lesson 1	Swift Basics: How to code in Swift - 04/18/2025
 
-🔄 Lesson 2	Swift Basics: How to use basic types in Swift (Bool,String, Int) 
+✅ Lesson 2	Swift Basics: How to use basic types in Swift (Bool,String, Int) 
 
 🔄 Lesson 3	Swift Basics: How to use Variables and Constants 
 
